@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Python in data**
 
-- 💬 Ask me about **Python, Html, PHP, CSS, JAVA **
+- 💬 Ask me about **Python, Html, PHP, CSS, JAVA, KOTLIN **
 
 - 📫 How to reach me **adrianjared11@gmail.com**
 
