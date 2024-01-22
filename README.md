@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adrian Abwoga</h1>
-<h3 align="center">A Computer Science undergraduate In Strathmore university. Aspiring Data Scientist</h3>
+<h3 align="center">A Computer Science undergraduate In Strathmore university. Aspiring Software Engineer</h3>
 
 - 🌱 I’m currently learning **Python in data science **
 
