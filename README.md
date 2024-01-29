@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Adrian Abwoga</h1>
+<h1 align="center">Hello 👋, I'm Adrian Abwoga</h1>
 <h3 align="center">A Computer Science undergraduate In Strathmore university. Aspiring Software Engineer</h3>
 
-- 🌱 I’m currently learning **Python in data science **
+- 🌱 I’m currently learning **Python in data science and API implementation **
 
 - 💬 Ask me about **Python, Html, PHP, CSS, JAVA, KOTLIN **
 
