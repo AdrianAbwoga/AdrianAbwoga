@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Adrian Abwoga</h1>
-<h3 align="center">A Computer Science student In Strathmore university currently in my final year. Aspiring Software Engineer</h3>
+<h3 align="center">A Computer Science student In Strathmore university currently in my final year. Aspiring cyber security analyst</h3>
 
-- 🌱 I’m currently learning ** Machine learning audio recommendation system**
+- 🌱 I’m currently pursuing  ** C|EH by e-council  **
 
 - 💬 Ask me about **Python, Html, PHP, CSS, JAVA, KOTLIN **
 
